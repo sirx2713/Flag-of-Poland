@@ -1,0 +1,17 @@
+body{
+    background-color: #495E57;
+    color: #F5F7F8;
+}
+#white-box{
+    height: 400px;
+    width: 1200px;
+    background-color: #FFFFFF;
+    position: relative;
+}
+#white-box > #red-box{
+    height: 200px;
+    width: 1200px;
+    background-color: #DC143C;
+    position: absolute;
+    top: 200px;
+}
